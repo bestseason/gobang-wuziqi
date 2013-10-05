@@ -417,7 +417,7 @@ public class Wuziqi {
 		});
 		shell.setBackgroundMode(SWT.INHERIT_FORCE);
 		shell.setLayout(null);
-		shell.setSize(650, 650);
+		shell.setSize(750, 650);
 		center(shell);
 		shell.setVisible(true);
 		shell.setText("Îå×ÓÆå");
