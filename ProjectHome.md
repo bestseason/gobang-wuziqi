@@ -1,0 +1,1 @@
+a JAVA application which can play gobang with other people and AI.
